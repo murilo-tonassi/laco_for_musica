@@ -1,0 +1,38 @@
+body {
+    background: linear-gradient(-450deg, #20a06b, #59e7a5, rgba(34, 148, 101, 0.907))
+}
+ 
+
+form{
+    background-color: #92f7d0;
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 70px;
+    border-radius: 80px;
+    box-shadow: 0 0 30px rgb(34, 99, 110);
+    text-align: center;
+}
+
+label{
+
+  font-family:'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+
+select{
+
+    font-size: large;
+    background-color: rgb(96, 221, 148);
+}
+
+#btn{
+    color: rgb(0, 0, 0);
+    width: 250px;
+    height: 40px;
+    border-radius: 30px;
+    font-size: 12px;
+    background-color: #17b87a;
+}
+#btn:hover{
+    font-size: 18px;
+}
