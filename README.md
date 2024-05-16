@@ -6,6 +6,8 @@ Este repositório contém um exemplo de implementação de um laço de repetiç�
 ## Introdução 🔧
  
 O código neste repositório demonstra o uso básico do laço de repetição `for` em JavaScript para exibir uma lista de músicas. A inclusão de mais tipos de música amplia a variedade de gêneros apresentados.
+
+<img src= "lacomusica.png">
  
  
 ## Funcionalidades 🧠
