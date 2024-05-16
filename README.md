@@ -21,4 +21,4 @@ O código neste repositório demonstra o uso básico do laço de repetição `fo
 ## Autores 📚
 [Murilo Tonassi](https://github.com/murilo-tonassi)
 [Nicolas Tonassi](https://github.com/nicolas-tonassi)
-[Pamela Souza]()
+[Pamela Souza](https://github.com/PamelaSouzaSilva)
