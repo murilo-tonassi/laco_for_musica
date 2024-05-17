@@ -19,7 +19,11 @@ O código neste repositório demonstra o uso básico do laço de repetição `fo
  
 ## Tecnologias Utilizadas 💻
  
-- Visual Studio Code; - CSS3; - GitHub; - Git; - HTML5; - JavaScript.
+- Visual Studio Code; 
+- CSS3; - GitHub; 
+- Git; 
+- HTML5; 
+- JavaScript.
  
  
 ## Autores 📚
